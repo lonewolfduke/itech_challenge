@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>i-tech</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- <meta name="description" content="Sportify template project"> -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="styles/bootstrap-4.1.2/bootstrap.min.css">
+<link href="plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.3.4/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.3.4/owl.theme.default.css">
+<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.3.4/animate.css">
+<link rel="stylesheet" type="text/css" href="styles/main_styles.css">
+<link rel="stylesheet" type="text/css" href="styles/responsive.css">
+</head>
+<body>
+
+<div class="super_container">
+	
+	<!-- Header -->
+
+	<header class="header">
+		<div class="header_wrap d-flex flex-row align-items-center justify-content-center">
+			
+			<!-- Logo -->
+			<div class="logo"><a href="#"><img src="images/logo_1.png" width="300" height="100" alt=""></a></div>
+
+			<!-- Main Nav -->
+			<nav class="main_nav">
+				<ul class="d-flex flex-row align-items-center justify-content-center">
+					<li class="active"><a href="index.html">home</a></li>
+					<li><a href="about.html">about us</a></li>
+					<li><a href="participation.html">participation</a></li>
+					<li><a href="login-register.html">login-register</a></li>
+					<li><a href="contact.html">contact</a></li>
+				</ul>
+			</nav>
+
+			<!-- Social -->
+			<div class="social header_social">
+				<ul class="d-flex flex-row align-items-center justify-content-start">
+					<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+					<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+				</ul>
+			</div>
+
+			<!-- Hamburger -->
+			<div class="hamburger ml-auto"><i class="fa fa-bars" aria-hidden="true"></i></div>
+
+		</div>
+	</header>
+
+	<!-- Fixed Header -->
+
+	<header class="fixed_header">
+		<div class="header_wrap d-flex flex-row align-items-center justify-content-center">
+			
+			<!-- Logo -->
+			<div class="logo"><a href="#"><img src="images/logo_2.png" width="300" height="100" alt=""></a></div>
+
+			<!-- Main Nav -->
+			<nav class="main_nav">
+				<ul class="d-flex flex-row align-items-center justify-content-center">
+					<li class="active"><a href="index.html">home</a></li>
+					<li><a href="about.html">about us</a></li>
+					<li><a href="participation.html">participation</a></li>
+					<li><a href="login-register.html">login-register</a></li>
+					<li><a href="contact.html">contact</a></li>
+				</ul>
+			</nav>
+
+			<!-- Social -->
+			<div class="social header_social">
+				<ul class="d-flex flex-row align-items-center justify-content-start">
+					<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+					<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+					
+				</ul>
+			</div>
+
+			<!-- Hamburger -->
+			<div class="hamburger ml-auto"><i class="fa fa-bars" aria-hidden="true"></i></div>
+
+		</div>
+	</header>
+
+	<!-- Menu -->
+
+	<div class="menu">
+		<div class="menu_door door_left"></div>
+		<div class="menu_door door_right"></div>
+		<div class="menu_content d-flex flex-column align-items-center justify-content-center">
+			<div class="menu_close">close</div>
+			<div class="menu_nav_container">
+				<nav class="menu_nav text-center">
+					<ul>
+						<li><a href="index.html">home</a></li>
+						<li><a href="about.html">about us</a></li>
+						<li><a href="participation.html">participation</a></li>
+						<li><a href="login-register.html">login-register</a></li>
+						<li><a href="contact.html">contact</a></li>
+					</ul>
+				</nav>
+			</div>
+			<div class="social menu_social">
+				<ul class="d-flex flex-row align-items-center justify-content-start">
+					
+					<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+					<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+					
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	<!-- Home -->
+
+	<div class="home">
+		
+		<!-- Slider -->
+		<div class="home_slider_container">
+			<div class="owl-carousel owl-theme home_slider">
+				
+				<!-- Slide -->
+				<div class="slide">
+					<div class="background_image" style="background-image:url(images/index.jpg)"></div>
+					<div class="home_slider_overlay"></div>
+					<div class="slide_wrap d-flex flex-column align-items-start justify-content-center">
+						<div class="home_container">
+							<div class="container">
+								<div class="row">
+									<div class="col">
+										<div class="home_content active">
+											<div class="home_subtitle">Register to participate now!</div>
+											<div class="home_title">
+												<h1><span>discover</span> your</h1>
+												<h1>potential</h1>
+											</div>
+											<div class="button home_button"><a href="#">read more</a></div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Slide -->
+				<div class="slide">
+					<div class="background_image" style="background-image:url(images/index2.jpg)"></div>
+					<div class="home_slider_overlay"></div>
+					<div class="slide_wrap d-flex flex-column align-items-start justify-content-center">
+						<div class="home_container">
+							<div class="container">
+								<div class="row">
+									<div class="col">
+										<div class="home_content">
+											<div class="home_subtitle">Register to participate now!</div>
+											<div class="home_title">
+												<h1><span>be the Ap-tech</span> it student</h1>
+												<h1>of the year</h1>
+											</div>
+											<div class="button home_button"><a href="#">read more</a></div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Slide -->
+				<div class="slide">
+					<div class="background_image" style="background-image:url(images/index3.png)"></div>
+					<div class="home_slider_overlay"></div>
+					<div class="slide_wrap d-flex flex-column align-items-start justify-content-center">
+						<div class="home_container">
+							<div class="container">
+								<div class="row">
+									<div class="col">
+										<div class="home_content">
+											
+												<div class="home_subtitle">Register to participate now!</div>
+												<div class="home_title">
+													<h1><span>win</span> fantastic</h1>
+													<h1>prices</h1>
+											</div>
+											<div class="button home_button"><a href="#">read more</a></div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+
+	</div>
+
+	<!-- Intro -->
+
+	<div class="intro">
+		<div class="intro_boxes_wrap">
+			<div class="d-flex flex-row align-items-start justify-content-start flex-wrap">
+				
+				<!-- Intro Box -->
+				<div class="intro_box d-flex flex-column align-items-center justify-content-center text-center">
+					<div class="intro_box_icon"><img src="images/icon1.png" width="200" height="200" alt=""></div>
+					<div class="intro_box_title"><h3>Why participate?</h3></div>
+					<div class="intro_box_text">
+						<p>Six months social media publicity for the winning school, sponsored by Ap-tech on all our social media platform.</p>
+					</div>
+				</div>
+
+				<!-- Intro Box -->
+				<div class="intro_box d-flex flex-column align-items-center justify-content-center text-center">
+					<div class="intro_box_icon"><img src="images/icon1.png" width="200" height="200" alt=""></div>
+					<div class="intro_box_title"><h3>why participate?</h3></div>
+					<div class="intro_box_text">
+						<p>students stand the chance of getting scholarship to transfer credit to all our affiliated university both in the U.K Mauritius and Dubai</p>
+					</div>
+				</div>
+
+				<!-- Intro Box -->
+				<div class="intro_box d-flex flex-column align-items-center justify-content-center text-center">
+					<div class="intro_box_icon"><img src="images/icon1.png" width="200" height="200" alt=""></div>
+					<div class="intro_box_title"><h3>Why participate?</h3></div>
+					<div class="intro_box_text">
+						<p>20% discount on all Ap-tech  courses.</p>
+					</div>
+				</div>
+				
+
+			</div>
+		</div>
+	</div>
+
+	<!-- Date -->
+
+	<div class="about">
+		<div class="container">
+			<div class="row">
+				
+				<!-- Date information -->
+				<div class="col-lg-8">
+					<div class="about_content">
+						<div class="section_title_container">
+							<!-- <div class="section_subtitle">aerobics program</div> -->
+							<div class="section_title"><h1>Proposed Date</h1></div>
+						</div>
+						<div class="about_text">
+							<p>This year's edition comes up in the month of September @ Ap-tech computer education, plot A family support road, beside U.L.O, off Okpanam road Asaba, Delta state.
+								REEDEMERS INTERNATIONAL HIGH SCHOOL ASABA are the current Ap-tech I.T school of the year. Your school can be next.
+							<h3>Register</h3>
+							</p>
+						</div>
+						<div class="button about_button"><a href="participation.html">As a School</a></div>
+						<div class="button about_button"><a href="participation.html">As a Student</a></div>
+					</div>
+				</div>
+
+				<!-- About Image -->
+				<div class="col-lg-4">
+					<div class="about_image"><img src="images/date.jpg" alt=""></div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+	<!-- Quote -->
+
+	<div class="quote">
+		<div class="container">
+			<div class="row">
+				<div class="col">
+					<div class="quote_content text-center">
+						<p>“Life is not divided into semeters. You don't get summers off and very few employers are interested in helping you find yourself.”</p>
+					</div>
+					<div class="quote_author text-center">– BILL GATES</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- CTA -->
+
+	<div class="cta">
+		<div class="d-flex flex-xl-row flex-column align-items-start justify-content-start">
+
+			<!-- CTA Image -->
+			<div class="cta_image align-self-stretch">
+				<div class="background_image" style="background-image:url(images/cta.jpg)"></div>
+			</div>
+
+			<!-- CTA Content -->
+			<div class="cta_content">
+				<div class="section_title_container">
+					<div class="section_subtitle">AP-TECH 2019 (2ND EDITION)</div>
+					<div class="section_title"><h1>ABOUT.</h1></div>
+				</div>
+				<div class="cta_list">
+					<ul>
+						<li class="d-flex flex-row align-items-center justify-content-start">
+							<!-- <img src="images/check.png" alt=""> -->
+							<p>Ap-tech Computers Education Asaba is pleased to announce her second edition of the "Ap-Tech's I.T School of the year Award" also known as iTech-challenge award which is aimed at recognizing and encouraging Secondary Schools for their contribution in ensuring that the average Nigerian student is technologically inclined to a large extent. This competition is an excellent way of making the student aware of the important roles of Information Technology, develop and sharpen their skills in the I.T world, as well as to foster a good working relationship among schools.
+								The award will be based on student's performance in the inter-school competition.
+							</p>
+						<!-- </li>
+						<li class="d-flex flex-row align-items-center justify-content-start">
+							<img src="images/check.png" alt="">
+							<span>Duis rutrum nisi tempus finibus luctus. Sed porta vel lacus quis lacinia.</span>
+						</li>
+						<li class="d-flex flex-row align-items-center justify-content-start">
+							<img src="images/check.png" alt="">
+							<span>Vestibulum nec justo lectus. In hac habitasse platea dictumst.</span>
+						</li>
+						<li class="d-flex flex-row align-items-center justify-content-start">
+							<img src="images/check.png" alt="">
+							<span> Proin vulputate rhoncus nibh eu vehicula. Donec vitae laoreet quam, ac feugiat nibh.</span>
+						</li> -->
+					</ul>
+				</div>
+				<!-- <div class="cta_buttons">
+					<div class="d-flex flex-row align-items-start justify-content-start flex-wrap">
+						<div class="button cta_button"><a href="#">read more</a></div>
+						<div class="button_2 cta_button"><a href="#">read more</a></div>
+					</div> -->
+				</div>
+			</div>
+
+		</div>
+	</div>
+
+	<!-- Classes -->
+
+	<!-- <div class="classes">
+		<div class="container">
+			<div class="row">
+				<div class="col">
+					<div class="section_title_container text-center">
+						<div class="section_subtitle">our programs</div>
+						<div class="section_title"><h1>classes</h1></div>
+					</div>
+
+					<!-- Classes Slider -->
+					<!-- <!-- <!-- <div class="classes_slider_container">
+						<div class="owl-carousel owl-theme classes_slider">
+							
+							<!-- Slide -->
+							<div>
+								<!-- <div class="classes_slide_wrap">
+									<div class="text-center">
+										<div class="classes_title"><h3>Career Starter Courses</h3></div>
+										<div class="classes_text">
+											<p>Information Technology (IT) skills are very important for every industry in this present generation. And it is very important to know the basics of IT to be able to carry out daily professional tasks effectively. Aptech has designed career starter courses for young students and individuals interested in exploring the IT industry to kick-start their career.</p>
+										</div>
+										<div class="class_image"><a href="#"><img src="images/instructor_1.jpeg" alt=""></a></div>
+									</div>
+								</div>
+							</div>
+
+							<!-- Slide -->
+							<!-- <div>
+								<div class="classes_slide_wrap">
+									<div class="text-center">
+										<div class="classes_title"><h3>Career Builder Programmes</h3></div>
+										<div class="classes_text">
+											<p>Aptech Certified Computer Professional (ACCP)
+
+												This is a two-year programme that will give you an edge and prepare you for a job. The ACCP course is structured to prepare students with extensive knowledge of the latest programming techniques such as .NET, Oracle, Java, Open source Technologies, etc.<details>
+													<summary>Read more</summary> Enterprise Application development using OST, Web and Android/Mobile Application Development and Testing, JAVA and .NE You will also learn things like Database Administration using Oracle, Cloud Computing,T, Windows System/Server Administration, etc. The ACCP curriculum also offers four choices of specialisations: Java with OST, .NET with OST, Oracle with OST and Networking with OST.
+												Aptech Certified Network Specialist (ACNS)
+
+<p>
+    This is also a two-year programme which ensures that you are highly experienced with networking. This course leads to global certification in security and database management using SQL server and networking. The ACNS programme will help you to develop a career as a Database Administrator, Security Specialist, Network Manager, etc.
+    Information Security and Ethical Hacking
+    
+    This course is a three-year programme that will help train students in cryptography, information security awareness, encryption algorithms and different kinds of security models. The completion of this course will give you the opportunity to be employed by companies to secure and protect their data.</p>
+</details> -->
+
+										<!-- </div>
+										<div class="class_image"><a href="#"><img src="images/instructor_2.jpeg" alt=""></a></div>
+									</div>
+								</div>
+							</div> -->
+
+							<!-- Slide -->
+							<!-- <div>
+								<div class="classes_slide_wrap">
+									<div class="text-center">
+										<div class="classes_title"><h3>Career Professional courses</h3></div>
+										<div class="classes_text">
+											<p>Aptech professional courses are for people who want to increase their knowledge to get a step ahead in their careers. The professional courses include:
+
+												Programming in C#
+												Java Programming I (Fundamentals of Java)
+												Java Programming I & II
+												Data Management (SQL Server)
+												Smart Professional – OST
+												Smart Professional – Android Application Development.
+												Comptia A+ & Network+
+												Software Project Management
+												Server Administration
+												CISCO</p> -->
+										<!-- </div>
+										<div class="class_image"><a href="#"><img src="images/instructor_1.jpeg" alt=""></a></div>
+									</div>
+								</div>
+							</div> -->
+
+						<!-- </div>
+					</div>
+				</div>
+			</div> -->
+		<!-- </div> -->
+	<!-- </div>  -->
+
+	<!-- Pricing
+
+	<div class="pricing">
+		<div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="images/pricing.jpg" data-speed="0.8"></div>
+		<div class="container">
+			<div class="row">
+				<div class="col">
+					<div class="section_title_container text-center">
+						<div class="section_subtitle">our programs</div>
+						<div class="section_title"><h1>pricing</h1></div>
+					</div>
+					<div class="pricing_slider_container">
+						<div class="owl-carousel owl-theme pricing_slider"> -->
+							
+							<!-- Slide
+							<div>
+								<div class="pricing_box text-center">
+									<div class="pricing_title_box">
+										<div>
+											<div class="pricing_name">beginner</div>
+											<div class="pricing_price">Free</div>
+											<div class="pricing_per">1 day</div>
+										</div>
+									</div>
+									<div class="pricing_content">
+										<div class="pricing_list">
+											<ul>
+												<li>2 E-mail Addresess</li>
+												<li>25 GB Space</li>
+												<li>24h Live Support</li>
+												<li>Documetation inside</li>
+												<li>SEO Plan</li>
+											</ul>
+										</div>
+										<div class="pricing_info"><a href="#">i</a></div>
+										<div class="button pricing_button ml-auto mr-auto"><a href="#">order plan</a></div>
+									</div>
+								</div>
+							</div>
+
+							<!-- Slide -->
+							<!-- <div>
+								<div class="pricing_box text-center pricing_box_alt">
+									<div class="pricing_title_box">
+										<div>
+											<div class="pricing_name">beginner</div>
+											<div class="pricing_price">$29<span>90</span></div>
+											<div class="pricing_per">Per Month</div>
+										</div>
+									</div>
+									<div class="pricing_content">
+										<div class="pricing_list">
+											<ul>
+												<li>2 E-mail Addresess</li>
+												<li>25 GB Space</li>
+												<li>24h Live Support</li>
+												<li>Documetation inside</li>
+												<li>SEO Plan</li>
+											</ul>
+										</div>
+										<div class="pricing_info"><a href="#">i</a></div>
+										<div class="button_2 pricing_button ml-auto mr-auto"><a href="#">order plan</a></div>
+									</div>
+								</div> -->
+							<!-- </div> --> -->
+
+							<!-- Slide
+							<div>
+								<div class="pricing_box text-center">
+									<div class="pricing_title_box">
+										<div>
+											<div class="pricing_name">beginner</div>
+											<div class="pricing_price">$59<span>90</span></div>
+											<div class="pricing_per">Per Month</div>
+										</div>
+									</div>
+									<div class="pricing_content">
+										<div class="pricing_list">
+											<ul>
+												<li>2 E-mail Addresess</li>
+												<li>25 GB Space</li>
+												<li>24h Live Support</li>
+												<li>Documetation inside</li>
+												<li>SEO Plan</li>
+											</ul>
+										</div>
+										<div class="pricing_info"><a href="#">i</a></div>
+										<div class="button pricing_button ml-auto mr-auto"><a href="#">order plan</a></div>
+									</div>
+								</div>
+							</div>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div> -->
+
+	<!-- Footer -->
+
+	<footer class="footer">
+		<div class="footer_content">
+			<div class="container">
+				<div class="row">
+					<div class="col">
+						<div class="footer_logo text-center"><a href="#"><img src="images/logo_3.png" width="200" height="80" alt=""></a></div>
+					</div>
+				</div>
+				<div class="row footer_row">
+					<div class="col-lg-4 footer_col">
+						<div class="footer_item text-center">
+							<div class="footer_icon d-flex flex-column align-items-center justify-content-center ml-auto mr-auto">
+								<div><img src="images/phone.png" alt=""></div>
+							</div>
+							<div class="footer_title">talk to us</div>
+							<div class="footer_list">
+								<ul>
+									<li>+234 902 555 3155</li>
+									<li>+234 810 350 6776</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 footer_col">
+						<div class="footer_item text-center">
+							<div class="footer_icon d-flex flex-column align-items-center justify-content-center ml-auto mr-auto">
+								<div><img src="images/mail.png" alt=""></div>
+							</div>
+							<div class="footer_title">e-mail</div>
+							<div class="footer_list">
+								<ul>
+									<li>info@coriftech.com.ng</li>
+									<!-- <li>office@sportify25.com</li> -->
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 footer_col">
+						<div class="footer_item text-center">
+							<div class="footer_icon d-flex flex-column align-items-center justify-content-center ml-auto mr-auto">
+								<div><img src="images/contact.png" alt=""></div>
+							</div>
+							<div class="footer_title">location</div>
+							<div class="footer_list">
+								<ul>
+									<li>Plot A Phase 5. Block 3</li>
+									<li>beside U.L.O  Asaba</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="footer_bar d-flex flex-row align-items-center justify-content-center">
+			<div class="copyright"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></div>
+		</div>
+	</footer>
+</div>
+
+<script src="js/jquery-3.3.1.min.js"></script>
+<script src="styles/bootstrap-4.1.2/popper.js"></script>
+<script src="styles/bootstrap-4.1.2/bootstrap.min.js"></script>
+<script src="plugins/greensock/TweenMax.min.js"></script>
+<script src="plugins/greensock/TimelineMax.min.js"></script>
+<script src="plugins/scrollmagic/ScrollMagic.min.js"></script>
+<script src="plugins/greensock/animation.gsap.min.js"></script>
+<script src="plugins/greensock/ScrollToPlugin.min.js"></script>
+<script src="plugins/OwlCarousel2-2.3.4/owl.carousel.js"></script>
+<script src="plugins/easing/easing.js"></script>
+<script src="plugins/progressbar/progressbar.min.js"></script>
+<script src="plugins/parallax-js-master/parallax.min.js"></script>
+<script src="js/custom.js"></script>
+</body>
+</html>
