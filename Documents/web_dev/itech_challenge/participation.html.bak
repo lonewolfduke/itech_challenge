@@ -113,57 +113,63 @@
           </div>
         </div>
       </div>
-      </div>
-      
-      <!-- Classes -->
-      <div class="classes">
-        <div class="container">
-          <div class="row">
-            <!-- Class -->
-            <div class="col-xl-8 col-md-8">
-              <div class="class_box text-center">
-                <div>
-                
-                  <div class="classes_title">
-                    <h3>Register or Login as a school</h3>
-                  </div>
-                  <div class="classes_text">
-                    <p>For schools participating in the i-tech Challenge</p>
-                  </div>
-                  <div class="login or register"><span><a href="#">Login</a></span>
-                    <p> OR </p>
-                    <a href="#">Register</a></div>
-                    </div>
-                    </div>
-                    </div>
-                    </div>
-                    </div>
-                    
-             
-      <!-- Icon Box -->
-      <div class="col-lg-8">
-        <div class="icon_box">
-          <div class="icon_box_icon"><img src="images/click.png" alt=""></div>
-          <div class="icon_box_title">
-            <h3>Registration/<br>
-              Participation</h3>
+    </div>
+    <!-- Classes -->
+    <div class="classes">
+      <div class="container">
+        <div class="row">
+          <!-- Class -->
+          <div class="col-xl-8 col-md-8">
+            <div class="class_box text-center">
+              <div>
+                <div class="classes_title">
+                  <h3>Register or Login as a school</h3>
+                </div>
+                <div class="classes_text">
+                  <p>For schools participating in the i-tech Challenge</p>
+                </div>
+                <div class="login or register"><span><a href="#">Login</a></span>
+                  <p> OR </p>
+                  <a href="#">Register</a></div>
+              </div>
+            </div>
           </div>
-          
-          <div class="icon_box_text">
-            <p>Registeration for the competition is free. Registeration ca be
-              done online using this link www.coriftech.com.ng/ITaward or visit
-              Aptech Computer Education, plot A family support road, beside
-              U.L.O.The competition is open for students in SS1-SS3, you are
-              expected to come with maximum of five (5) students and coach, but
-              only three(3) students will reprsent the school in the
-              competition. The competition is established to improve and test
-              the knowledge of students in Basic computer knowledge (WASSCE
-              syllabus) and General I.Q QuestionsThe competition is open for students in SS1-SS3, you are
-              expected to come with maximum of five (5) students and coach, but
-              only three(3) students will reprsent the school in the
-              competition. The competition is established to improve and test
-              the knowledge of students in Basic computer knowledge (WASSCE
-              syllabus) and General I.Q QuestionsIn this year's Aptech I.T school of the year competition(i-Tech
+        </div>
+      </div>
+      <!-- Icon Box -->
+      <div class="cta">
+          <div class="d-flex flex-xl-row flex-column align-items-start justify-content-start">
+            <!-- CTA Image -->
+            <div class="cta_image align-self-stretch">
+              <div class="background_image" style="background-image:url(images/cta.jpg)"></div>
+            </div>
+            <!-- CTA Content -->
+            <div class="cta_content">
+              <div class="section_title_container">
+                <div class="section_subtitle">AP-TECH 2019 (2ND EDITION)</div>
+                <div class="section_title">
+                  <h1>ABOUT.</h1>
+                </div>
+              </div>
+              <div class="cta_list">
+                <ul>
+                  <li class="d-flex flex-row align-items-center justify-content-start">
+            <p>Registration for the competition is free. Registration ca be done
+              online using this link <a href="www.coriftech.com.ng/ITawardg" title="go to www.coriftech.com.ng/ITaward"
+                target="_top">www.coriftech.com.ng/ITaward</a> or visit Aptech
+              Computer Education, plot A family support road, beside U.L.O.The
+              competition is open for students in SS1-SS3, you are expected to
+              come with maximum of five (5) students and coach, but only
+              three(3) students will represent the school in the competition.
+              The competition is established to improve and test the knowledge
+              of students in Basic computer knowledge (WASSCE syllabus) and
+              General I.Q Questions. The competition is open for students in
+              SS1-SS3, you are expected to come with maximum of five (5)
+              students and coach, but only three(3) students will represent the
+              school in the competition. The competition is established to
+              improve and test the knowledge of students in Basic computer
+              knowledge (WASSCE syllabus) and General I.Q Questions. In this
+              year's Aptech I.T school of the year competition(i-Tech
               challenge)we have also scheduled a day training on the ICT as a
               tool for reducing workload and management of schools effectively.
               There would be training sessions with all school owners and
@@ -171,124 +177,107 @@
           </div>
         </div>
       </div>
+      </div>
+      </
       <!-- Icon Box -->
       <!-- <div class="col-lg-8">
-        <div class="icon_box">
-          <div class="icon_box_icon"><img src="images/click.png" alt=""></div>
-          <div class="icon_box_title">
-            <h3>Registration/<br>
-              Participation</h3>
-          </div>
-          <div class="icon_box_text">
-            <p> The competition is open for students in SS1-SS3, you are
-              expected to come with maximum of five (5) students and coach, but
-              only three(3) students will reprsent the school in the
-              competition. The competition is established to improve and test
-              the knowledge of students in Basic computer knowledge (WASSCE
-              syllabus) and General I.Q QuestionsIn this year's Aptech I.T school of the year competition(i-Tech
-              challenge)we have also scheduled a day training on the ICT as a
-              tool for reducing workload and management of schools effectively.
-              There would be training sessions with all school owners and
-              principals with the introduction of ICT into school management</p>
-          </div>
-        </div>
-      </div> -->
-      
+        <div class="icon_box">          <div class="icon_box_icon"><img src="images/click.png" alt=""></div>
+          <div class="icon_box_title">            <h3>Registration/<br>
+              Participation</h3>          </div>
+          <div class="icon_box_text">            <p> The competition is open for students in SS1-SS3, you are
+              expected to come with maximum of five (5) students and coach, but              only three(3) students will reprsent the school in the
+              competition. The competition is established to improve and test              the knowledge of students in Basic computer knowledge (WASSCE
+              syllabus) and General I.Q QuestionsIn this year's Aptech I.T school of the year competition(i-Tech              challenge)we have also scheduled a day training on the ICT as a
+              tool for reducing workload and management of schools effectively.              There would be training sessions with all school owners and
+              principals with the introduction of ICT into school management</p>          </div>
+        </div>      </div> -->
       <!-- Icon Box -->
       <!-- <div class="col-lg-4">
-        <div class="icon_box">
-          <div class="icon_box_icon"><img src="images/click.png" alt=""></div>
-          <div class="icon_box_title">
-            <h3>Registration/<br>
-              Participation</h3>
-          </div>
-          <div class="icon_box_text">
-            <p>In this year's Aptech I.T school of the year competition(i-Tech
-              challenge)we have also scheduled a day training on the ICT as a
-              tool for reducing workload and management of schools effectively.
-              There would be training sessions with all school owners and
-              principals with the introduction of ICT into school management.</p>
-          </div>
-        </div>
-      </div>
-    </div>
+        <div class="icon_box">          <div class="icon_box_icon"><img src="images/click.png" alt=""></div>
+          <div class="icon_box_title">            <h3>Registration/<br>
+              Participation</h3>          </div>
+          <div class="icon_box_text">            <p>In this year's Aptech I.T school of the year competition(i-Tech
+              challenge)we have also scheduled a day training on the ICT as a              tool for reducing workload and management of schools effectively.
+              There would be training sessions with all school owners and              principals with the introduction of ICT into school management.</p>
+          </div>        </div>
+      </div>    </div>
     --&gt; -->
-    <!-- Footer -->
-    <footer class="footer">
-      <div class="footer_content">
-        <div class="container">
-          <div class="row">
-            <div class="col">
-              <div class="footer_logo text-center"><a href="#"><img src="images/logo_3.png"
-                    alt="" width="200" height="80"></a></div>
-            </div>
-          </div>
-          <div class="row footer_row">
-            <div class="col-lg-4 footer_col">
-              <div class="footer_item text-center">
-                <div class="footer_icon d-flex flex-column align-items-center justify-content-center ml-auto mr-auto">
-                  <div><img src="images/phone.png" alt=""></div>
-                </div>
-                <div class="footer_title">talk to us</div>
-                <div class="footer_list">
-                  <ul>
-                    <li>+234 902 555 3155</li>
-                    <li>+234 810 350 6776</li>
-                  </ul>
-                </div>
+      <!-- Footer -->
+      <footer class="footer">
+        <div class="footer_content">
+          <div class="container">
+            <div class="row">
+              <div class="col">
+                <div class="footer_logo text-center"><a href="#"><img src="images/logo_3.png"
+                      alt="" width="200" height="80"></a></div>
               </div>
             </div>
-            <div class="col-lg-4 footer_col">
-              <div class="footer_item text-center">
-                <div class="footer_icon d-flex flex-column align-items-center justify-content-center ml-auto mr-auto">
-                  <div><img src="images/mail.png" alt=""></div>
-                </div>
-                <div class="footer_title">e-mail</div>
-                <div class="footer_list">
-                  <ul>
-                    <li>info@coriftech.com.ng</li>
-                    <!-- <li>office@sportify25.com</li> -->
-                  </ul>
+            <div class="row footer_row">
+              <div class="col-lg-4 footer_col">
+                <div class="footer_item text-center">
+                  <div class="footer_icon d-flex flex-column align-items-center justify-content-center ml-auto mr-auto">
+                    <div><img src="images/phone.png" alt=""></div>
+                  </div>
+                  <div class="footer_title">talk to us</div>
+                  <div class="footer_list">
+                    <ul>
+                      <li>+234 902 555 3155</li>
+                      <li>+234 810 350 6776</li>
+                    </ul>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="col-lg-4 footer_col">
-              <div class="footer_item text-center">
-                <div class="footer_icon d-flex flex-column align-items-center justify-content-center ml-auto mr-auto">
-                  <div><img src="images/contact.png" alt=""></div>
+              <div class="col-lg-4 footer_col">
+                <div class="footer_item text-center">
+                  <div class="footer_icon d-flex flex-column align-items-center justify-content-center ml-auto mr-auto">
+                    <div><img src="images/mail.png" alt=""></div>
+                  </div>
+                  <div class="footer_title">e-mail</div>
+                  <div class="footer_list">
+                    <ul>
+                      <li>info@coriftech.com.ng</li>
+                      <!-- <li>office@sportify25.com</li> -->
+                    </ul>
+                  </div>
                 </div>
-                <div class="footer_title">location</div>
-                <div class="footer_list">
-                  <ul>
-                    <li>Plot A Phase 5. Block 3</li>
-                    <li>beside U.L.O Asaba</li>
-                  </ul>
+              </div>
+              <div class="col-lg-4 footer_col">
+                <div class="footer_item text-center">
+                  <div class="footer_icon d-flex flex-column align-items-center justify-content-center ml-auto mr-auto">
+                    <div><img src="images/contact.png" alt=""></div>
+                  </div>
+                  <div class="footer_title">location</div>
+                  <div class="footer_list">
+                    <ul>
+                      <li>Plot A Phase 5. Block 3</li>
+                      <li>beside U.L.O Asaba</li>
+                    </ul>
+                  </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </div>
-      <div class="footer_bar d-flex flex-row align-items-center justify-content-center">
-        <div class="copyright"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-          Copyright ©
-          <script>document.write(new Date().getFullYear());</script> All rights
-          reserved by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-          <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></div>
-      </div>
-    </footer>
-    <script src="js/jquery-3.3.1.min.js"></script>
-    <script src="styles/bootstrap-4.1.2/popper.js"></script>
-    <script src="styles/bootstrap-4.1.2/bootstrap.min.js"></script>
-    <script src="plugins/greensock/TweenMax.min.js"></script>
-    <script src="plugins/greensock/TimelineMax.min.js"></script>
-    <script src="plugins/scrollmagic/ScrollMagic.min.js"></script>
-    <script src="plugins/greensock/animation.gsap.min.js"></script>
-    <script src="plugins/greensock/ScrollToPlugin.min.js"></script>
-    <script src="plugins/OwlCarousel2-2.3.4/owl.carousel.js"></script>
-    <script src="plugins/easing/easing.js"></script>
-    <script src="plugins/progressbar/progressbar.min.js"></script>
-    <script src="plugins/parallax-js-master/parallax.min.js"></script>
-    <script src="js/classes.js"></script>
+        <div class="footer_bar d-flex flex-row align-items-center justify-content-center">
+          <div class="copyright"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            Copyright ©
+            <script>document.write(new Date().getFullYear());</script> All
+            rights reserved by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></div>
+        </div>
+      </footer>
+      <script src="js/jquery-3.3.1.min.js"></script>
+      <script src="styles/bootstrap-4.1.2/popper.js"></script>
+      <script src="styles/bootstrap-4.1.2/bootstrap.min.js"></script>
+      <script src="plugins/greensock/TweenMax.min.js"></script>
+      <script src="plugins/greensock/TimelineMax.min.js"></script>
+      <script src="plugins/scrollmagic/ScrollMagic.min.js"></script>
+      <script src="plugins/greensock/animation.gsap.min.js"></script>
+      <script src="plugins/greensock/ScrollToPlugin.min.js"></script>
+      <script src="plugins/OwlCarousel2-2.3.4/owl.carousel.js"></script>
+      <script src="plugins/easing/easing.js"></script>
+      <script src="plugins/progressbar/progressbar.min.js"></script>
+      <script src="plugins/parallax-js-master/parallax.min.js"></script>
+      <script src="js/classes.js"></script> </div>
   </body>
 </html>
