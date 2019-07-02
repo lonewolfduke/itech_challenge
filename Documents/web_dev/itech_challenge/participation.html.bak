@@ -21,8 +21,8 @@
       <header class="header">
         <div class="header_wrap d-flex flex-row align-items-center justify-content-center">
           <!-- Logo -->
-          <div class="logo"><a href="#"><img src="images/logo_1.png" alt="" width="200"
-                height="50"></a></div>
+          <div class="logo"><a href="#"><img src="images/logo_1.png" alt="" width="300"
+                height="100"></a></div>
           <!-- Main Nav -->
           <nav class="main_nav">
             <ul class="d-flex flex-row align-items-center justify-content-center">
@@ -50,8 +50,8 @@
       <header class="fixed_header">
         <div class="header_wrap d-flex flex-row align-items-center justify-content-center">
           <!-- Logo -->
-          <div class="logo"><a href="#"><img src="images/logo_2.png" alt="" width="200"
-                height="50"></a></div>
+          <div class="logo"><a href="#"><img src="images/logo_2.png" alt="" width="300"
+                height="100"></a></div>
           <!-- Main Nav -->
           <nav class="main_nav">
             <ul class="d-flex flex-row align-items-center justify-content-center">
@@ -113,79 +113,70 @@
           </div>
         </div>
       </div>
+      </div>
+      
       <!-- Classes -->
       <div class="classes">
         <div class="container">
           <div class="row">
             <!-- Class -->
-            <div class="col-xl-6 col-md-6">
+            <div class="col-xl-8 col-md-8">
               <div class="class_box text-center">
                 <div>
+                
                   <div class="classes_title">
                     <h3>Register or Login as a school</h3>
                   </div>
                   <div class="classes_text">
-                    <p>For schools participating in the i-tech I.T Challenge</p>
+                    <p>For schools participating in the i-tech Challenge</p>
                   </div>
                   <div class="login or register"><span><a href="#">Login</a></span>
                     <p> OR </p>
                     <a href="#">Register</a></div>
-                  <!-- <div class="class_image"><a href="#"><img src="images/instructor_1.jpg" alt=""></a></div> -->
-                  </div> </div>
-            </div>
-            <!-- Class --> </div>
-        </div>
-      </div>
-      <!-- Class
-				<div class="col-xl-4 col-md-6">					<div class="class_box text-center">						<div>							<div class="classes_title"><h3>yoga</h3></div>
-							<div class="classes_text">								<p>Aenean auctor nisl vitae auctor faucibus. Pellentesque imperdiet auctor eros, sit amet ornare mauris malesuada in. Duis rutrum nisi tempus finibus luctus. Sed porta vel.</p>							</div>							<div class="classes_instructor"><span>Instructor: </span><a href="#">James Smith</a></div>
-							<div class="class_image"><a href="#"><img src="images/instructor_3.jpg" alt=""></a></div>						</div>					</div>				</div> -->
-      <!-- Class
-				<div class="col-xl-4 col-md-6">					<div class="class_box text-center">						<div>							<div class="classes_title"><h3>spinning</h3></div>
-							<div class="classes_text">								<p>Aenean auctor nisl vitae auctor faucibus. Pellentesque imperdiet auctor eros, sit amet ornare mauris malesuada in. Duis rutrum nisi tempus finibus luctus. Sed porta vel.</p>							</div>							<div class="classes_instructor"><span>Instructor: </span><a href="#">James Smith</a></div>
-							<div class="class_image"><a href="#"><img src="images/instructor_2.jpg" alt=""></a></div>						</div>					</div>				</div> -->
-      <!-- Class
-				<div class="col-xl-4 col-md-6">					<div class="class_box text-center new_class">						<div>							<div class="classes_title"><h3>crossfit</h3></div>
-							<div class="classes_text">								<p>Aenean auctor nisl vitae auctor faucibus. Pellentesque imperdiet auctor eros, sit amet ornare mauris malesuada in. Duis rutrum nisi tempus finibus luctus. Sed porta vel.</p>							</div>							<div class="classes_instructor"><span>Instructor: </span><a href="#">James Smith</a></div>
-							<div class="class_image"><a href="#"><img src="images/instructor_4.jpg" alt=""></a></div>						</div>					</div>				</div> -->
-      <!-- Class
-				<div class="col-xl-4 col-md-6">					<div class="class_box text-center">						<div>							<div class="classes_title"><h3>tae bo</h3></div>
-							<div class="classes_text">								<p>Aenean auctor nisl vitae auctor faucibus. Pellentesque imperdiet auctor eros, sit amet ornare mauris malesuada in. Duis rutrum nisi tempus finibus luctus. Sed porta vel.</p>							</div>							<div class="classes_instructor"><span>Instructor: </span><a href="#">James Smith</a></div>
-							<div class="class_image"><a href="#"><img src="images/instructor_5.jpg" alt=""></a></div>						</div>					</div>				</div> -->
-      <!-- </div>
-			<div class="row">				<div class="col">					<div class="button classes_button ml-auto mr-auto"><a href="#">join our gym now</a></div>				</div>
-			</div>		</div>	</div> -->
-      <!-- CTA -->
-      <!-- <div class="cta">
-		<div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="images/cta_3.jpg" data-speed="0.8"></div>		<div class="container">			<div class="row">				<div class="col-xl-10 offset-xl-1">
-					<div class="cta_content">						<div class="section_title_container text-center">							<div class="section_subtitle">aerobics program</div>							<div class="section_title"><h1>get a discount</h1></div>
-						</div>						<div class="cta_text text-center">							<p>Aenean auctor nisl vitae auctor faucibus. Pellentesque imperdiet auctor eros, sit amet ornare mauris malesuada in. Duis rutrum nisi tempus finibus luctus. Aenean auctor nisl vitae auctor faucibus. Pellentesque imperdiet auctor eros, sit amet ornare mauris malesuada in. Duis rutrum nisi tempus finibus luctus.</p>						</div>
-						<div class="button cta_button ml-auto mr-auto"><a href="#">read more</a></div>					</div>				</div>			</div>
-		</div>	</div>	<!-- Icon Boxes -->
-      <!-- <div class="icon_boxes">
-		<div class="container">			<div class="row">				 -->
+                    </div>
+                    </div>
+                    </div>
+                    </div>
+                    </div>
+                    
+             
       <!-- Icon Box -->
-      <div class="col-lg-4">
+      <div class="col-lg-8">
         <div class="icon_box">
           <div class="icon_box_icon"><img src="images/click.png" alt=""></div>
           <div class="icon_box_title">
-            <h3>Registeration/<br>
+            <h3>Registration/<br>
               Participation</h3>
           </div>
+          
           <div class="icon_box_text">
             <p>Registeration for the competition is free. Registeration ca be
               done online using this link www.coriftech.com.ng/ITaward or visit
               Aptech Computer Education, plot A family support road, beside
-              U.L.O.</p>
+              U.L.O.The competition is open for students in SS1-SS3, you are
+              expected to come with maximum of five (5) students and coach, but
+              only three(3) students will reprsent the school in the
+              competition. The competition is established to improve and test
+              the knowledge of students in Basic computer knowledge (WASSCE
+              syllabus) and General I.Q QuestionsThe competition is open for students in SS1-SS3, you are
+              expected to come with maximum of five (5) students and coach, but
+              only three(3) students will reprsent the school in the
+              competition. The competition is established to improve and test
+              the knowledge of students in Basic computer knowledge (WASSCE
+              syllabus) and General I.Q QuestionsIn this year's Aptech I.T school of the year competition(i-Tech
+              challenge)we have also scheduled a day training on the ICT as a
+              tool for reducing workload and management of schools effectively.
+              There would be training sessions with all school owners and
+              principals with the introduction of ICT into school management</p>
           </div>
         </div>
       </div>
       <!-- Icon Box -->
-      <div class="col-lg-4">
+      <!-- <div class="col-lg-8">
         <div class="icon_box">
           <div class="icon_box_icon"><img src="images/click.png" alt=""></div>
           <div class="icon_box_title">
-            <h3>Registeration/<br>
+            <h3>Registration/<br>
               Participation</h3>
           </div>
           <div class="icon_box_text">
@@ -194,16 +185,21 @@
               only three(3) students will reprsent the school in the
               competition. The competition is established to improve and test
               the knowledge of students in Basic computer knowledge (WASSCE
-              syllabus) and General I.Q Questions</p>
+              syllabus) and General I.Q QuestionsIn this year's Aptech I.T school of the year competition(i-Tech
+              challenge)we have also scheduled a day training on the ICT as a
+              tool for reducing workload and management of schools effectively.
+              There would be training sessions with all school owners and
+              principals with the introduction of ICT into school management</p>
           </div>
         </div>
-      </div>
+      </div> -->
+      
       <!-- Icon Box -->
-      <div class="col-lg-4">
+      <!-- <div class="col-lg-4">
         <div class="icon_box">
           <div class="icon_box_icon"><img src="images/click.png" alt=""></div>
           <div class="icon_box_title">
-            <h3>Registeration/<br>
+            <h3>Registration/<br>
               Participation</h3>
           </div>
           <div class="icon_box_text">
@@ -216,7 +212,7 @@
         </div>
       </div>
     </div>
-    --&gt;
+    --&gt; -->
     <!-- Footer -->
     <footer class="footer">
       <div class="footer_content">
